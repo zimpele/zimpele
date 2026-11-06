@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Thanks for swimming by">
+  <defs>
+    <path id="w" d="M0,40 Q100,12 200,40 T400,40 T600,40 T800,40 T1000,40 T1200,40 T1400,40 T1600,40 T1800,40 T2000,40 T2200,40 T2400,40 V150 H0 Z"/>
+  </defs>
+  <text x="600" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#3fb6c9">~ thanks for swimming by ~</text>
+  <g transform="translate(0,30)">
+    <use href="#w" fill="#3fb6c9" opacity="0.35">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-800 0" dur="14s" repeatCount="indefinite"/>
+    </use>
+    <use href="#w" fill="#1b6f8f" opacity="0.6" y="14">
+      <animateTransform attributeName="transform" type="translate" values="-800 0;0 0" dur="10s" repeatCount="indefinite"/>
+    </use>
+    <use href="#w" fill="#0b3d5c" y="28">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-800 0" dur="8s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
