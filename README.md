@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d5c,50:1b6f8f,100:3fb6c9&height=180&section=header&text=Hi,%20ich%20bin%20Luca%20🌊&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=3FB6C9&center=true&vCenter=true&width=520&lines=Web+%26+Frontend+Developer;Backend+%E2%80%A2+APIs+%E2%80%A2+Datenbanken;Baue+Dinge+mit+AI+%F0%9F%A4%96;Mein+Koi+w%C3%A4chst+mit+jedem+Commit+%F0%9F%90%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=3FB6C9&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer+%7C+AI-Engineer;Frontend+%E2%80%A2+Backend+%E2%80%A2+LLMs;Baue+Dinge+mit+AI+%F0%9F%A4%96;Mein+Koi+w%C3%A4chst+mit+jedem+Commit+%F0%9F%90%9F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,9 @@
 
 ### 🐟 Über mich
 
-- 🌐 Web & Frontend mit TypeScript, React und Next.js
+**Full-Stack Web Developer | AI-Engineer**
+
+- 🌐 Frontend mit TypeScript, React und Next.js
 - ⚙️ Backend mit Node.js, Python und PostgreSQL
 - 🤖 Experimentiere mit LLMs, Agents und allem rund um AI
 
