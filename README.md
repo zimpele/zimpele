@@ -8,33 +8,13 @@
   <img src="https://img.shields.io/badge/status-shipping-3fb6c9?style=for-the-badge&labelColor=0b2231" alt="Status: shipping" />
 </p>
 
-<br />
-
 <p align="center">
   <img src="assets/about.svg" width="760" alt="const luca = { role: Full-Stack Web Developer and AI Engineer, stack: TypeScript, React, Next.js, Node.js, Python, LLMs }" />
 </p>
 
-<br />
-
-<h2 align="center">🎏 Meet my koi</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
-    </td>
-    <td width="420">
-      <b>This fish is alive.</b> Every night at midnight UTC a GitHub Action redraws it from my activity:
-      <br /><br />
-      🎨 &nbsp;<b>Languages</b> paint its scales<br />
-      📈 &nbsp;<b>Contributions</b> make it grow<br />
-      🔥 &nbsp;<b>Streaks</b> leave their marks<br />
-      🌊 &nbsp;<b>Yesterday</b> decides how it swims
-      <br /><br />
-      <sub>Powered by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a> · body: <code>gold</code></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity by git-koi" />
+</p>
 
 <h2 align="center">🛠️ What I build with</h2>
 
@@ -55,7 +35,7 @@
 <h2 align="center">🌊 Activity in the pond</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zimpele&hide_border=true&border_radius=18&background=0B2231&stroke=1D4A5E&ring=3FB6C9&fire=F2C14E&currStreakLabel=F2C14E&sideLabels=8FC3CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5F7E8C" width="760" alt="GitHub streak" />
+  <img src="assets/stats.svg" width="760" alt="Contributions, streaks and the last 12 weeks of activity" />
 </p>
 
 <p align="center">
